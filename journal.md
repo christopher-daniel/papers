@@ -1,9 +1,10 @@
 # Title
-Measurements of biomass burning aerosol
+Simulations of biomass burning aerosol
 over West Africa
 
 # Authors
 Christopher Daniel
+John Smith
 
 # Introduction
 BBOA are important for the radiative effect
