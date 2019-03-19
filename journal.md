@@ -5,6 +5,7 @@ over West Africa
 # Authors
 John Smith, University of SomewhereElse
 Christopher Daniel, University of Manchester
+Laura :)
 
 # Introduction
 BBOA are important for the radiative effect
@@ -29,3 +30,4 @@ This is a draft, so the figures go in a section of their own.
 # Conclusions
 We did some science. It was great. More science needs to 
 happen, so funding should be applied for.
+
