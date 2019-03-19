@@ -14,14 +14,18 @@ Our measurements set out to add to this
 body of knowledge using Mass Spectrometer data
 (Allan et al 2001).
 
-#Simulations
+# Simulations
 John's box model is consistent with coagulation
 as the dominant growth mechanism.
 
-#Results
+# Results
 we report change in composition with atmospheric age.
 This is directly linked to the scattering properties
 of the particles.
 
 # Figures
 This is a draft, so the figures go in a section of their own.
+
+# Conclusions
+We did some science. It was great. More science needs to 
+happen, so funding should be applied for.
