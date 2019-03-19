@@ -18,5 +18,7 @@ body of knowledge using Mass Spectrometer data
 John's box model is consistent with coagulation
 as the dominant growth mechanism.
 
-#Conclusions
-Nothing of importance was found.
+#Results
+we report change in composition with atmospheric age.
+This is directly linked to the scattering properties
+of the particles.
