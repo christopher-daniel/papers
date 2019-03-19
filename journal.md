@@ -22,3 +22,6 @@ as the dominant growth mechanism.
 we report change in composition with atmospheric age.
 This is directly linked to the scattering properties
 of the particles.
+
+# Figures
+This is a draft, so the figures go in a section of their own.
