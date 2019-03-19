@@ -7,6 +7,11 @@ John Smith, University of SomewhereElse
 Christopher Daniel, University of Manchester
 Laura :)
 
+# Abstract
+Write this bit last.
+Summarise key points, this is the only bit that will
+be read, in addition to the figures.
+
 # Introduction
 BBOA are important for the radiative effect
 but the magnitude and even direction are unclear
